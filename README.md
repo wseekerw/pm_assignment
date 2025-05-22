@@ -12,9 +12,7 @@ This is a Django-React monorepo project built for assignemnt.
 
 ## 🚀 Getting Started
 
-Clone the repository
-
-git clone git@github.com:wseekerw/pm_assignment.git
+Clone or pull the repository
 
 Create the environment
 
